@@ -1,7 +1,6 @@
 <h1 align="center">Ola, Me Chamo Samuel Tedeschi</h1>
-<h3 align="center">Desenvolvedo front-end</h3>
+<h3 align="center">Desenvolvedor front-end, fique avontade para olhar os meus codigos ;)</h3>
 
-- 📫 Como entrar em contato comigo **samuel_tedeschi@yahoo.com**
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
