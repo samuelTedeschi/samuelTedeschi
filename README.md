@@ -9,5 +9,6 @@
 <h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-tedeschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-tedeschi" height="30" width="40" /></a>
-
 </p>
+
+<h3> e-mail : samuel_tedeschi@yahoo.com </h3>
