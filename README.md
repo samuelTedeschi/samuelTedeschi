@@ -1,10 +1,9 @@
 # Samuel Tedeschi
-<a href="https://www.github.com/https://github.com/samuelTedeschi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="mailto:1tedeschi.samuel1@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/samuel-tedeschi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## 👋 Olá Mundo!
-Desenvolvedor front end e estudante autodidata, atualmente fazendo o curso introdução da ciência da computação CS50x da Harvard.
+Desenvolvedor front end e estudante autodidata.
 
 
 ## Tech Stack
