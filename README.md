@@ -16,7 +16,3 @@ Desenvolvedor front end e estudante autodidata.
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
 
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelTedeschi&theme=dark&show_icons=true&count_private=true">
-</div>
