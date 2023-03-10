@@ -1,4 +1,4 @@
 # Samuel Tedeschi
-## Front-end Developer
+## Desenvolvedor Front-end
 
 
